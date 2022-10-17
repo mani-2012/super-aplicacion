@@ -1,0 +1,32 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camara
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+body{
+    background:linear-gradient(rgb(255, 192, 203),rgb(233, 94, 233),rgb(80, 208, 247));
+    color:rgb(153, 50, 204)
+}
+button{
+    background-color: deepskyblue;
+    color: dimgray;
+    border-radius: 40px;
+    padding: 10px;
+}
+#perfil{
+    background-color: deepskyblue;
+    color: dimgray;
+    border-radius: 28px;
+    padding: 10px;
+   
+}
